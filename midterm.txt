@@ -1,0 +1,60 @@
+Which is most common tool used to restrict access to computer system?
+Passwords
+
+What is the meaning of OSI, in terms of computers ?
+Open system Interconnection
+
+ASCII stands for__?
+American Standard Code for Information Interchange
+
+When did arch rivals IBM and Apple Computers Inc. decide to join hands?
+1991
+
+First page of Website is termed as__?
+Homepage
+
+What are Light pen and joystick ?
+Input Devices
+
+What is the functional key to display save-as box?
+F12
+
+What is the other name for programmed chip?
+LSIC
+
+Computers manipulate data in many ways, and this manipulation is called__?
+Processing
+
+Who is known as the founder of IBM Company?
+Thomas J. Watson
+
+The technology that stores only essential instructions on a microprocessor chip and thus enhances its speed is referred as__?
+RISC
+
+Help Menu is available at which button?
+Start
+
+What is the name of an application program that gathers user information and sends it to someone through the Internet?
+Spybot
+
+DOS stands for__?
+Disk Operating System
+
+Daisy wheel, Drum, chain etc are the__?
+Printers
+
+What do we use to change the appearance and positioning of text document in MS Word?
+Formatting
+
+RAM can be treated as the ......... for the computer's processor.
+Waiting Room
+
+Name the Father of Computer Mouse?
+Douglas Engelbart
+
+An image on a computer screen is made up of__?
+Pixels
+
+In 1999, the Melissa virus was a widely publicised__?
+E-mail virus
+
